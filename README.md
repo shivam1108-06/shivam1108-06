@@ -1,63 +1,69 @@
-# Hi 👋, I'm Shivam Kotak
+<div align="center">
 
-<h3 align="center">🎓 BCA Student | Aspiring Python Backend Developer from India 🇮🇳</h3>
+# 👋 Hello, I'm Shivam Kotak
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam1108-06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 🎓 BCA Student | 🚀 Aspiring Python Backend Developer
 
----
+*"Turning ideas into scalable applications through clean code, testing, and continuous learning."*
 
-## 🚀 About Me
-
-* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-* 💻 Aspiring **Python Backend Developer**
-* 🌱 Currently learning **Python, Django, C++, and Web Development**
-* 🚀 Building **Real-World Projects**
-* 📚 Passionate about **Continuous Learning and Problem Solving**
-* ⚡ Goal: To become a professional **Software Developer**
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 💡 Who Am I?
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,git,github,vscode" />
-  </a>
-</p>
+I'm a BCA student passionate about backend development and building practical software solutions. I enjoy solving problems, creating real-world applications, and writing maintainable code using modern development practices.
+
+* 🔭 Currently building **real-world backend projects**
+* 🐍 Specializing in **Python & Django**
+* 🧪 Practicing **Test-Driven Development (TDD)**
+* 🌱 Continuously improving my software engineering skills
+* 🎯 Goal: Become a professional Backend Software Engineer
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ Tech Stack
 
-### 🔹 Django To-Do List Application
+```text
+Backend       : Python | Django
+Programming   : C++
+Frontend      : HTML | CSS | JavaScript
+Tools         : Git | GitHub | VS Code
+Practices     : Test-Driven Development (TDD)
+```
+
+---
+
+## 🚀 What I'm Working On
+
+### 📌 Django To-Do Application
 
 * User authentication
 * CRUD operations
-* Task filtering and management
+* Task management system
 
-### 🔹 URL Shortener Project
+### 📌 URL Shortener
 
-* Generate short URLs
-* Redirect functionality
-* Backend logic using Python
+* URL generation and redirection
+* Backend logic implementation
+* Database integration
 
-### 🔹 Python Practice Projects
+### 📌 Python Practice Projects
 
 * Problem solving
-* Data structures and algorithms
+* Data structures & algorithms
+* Software design concepts
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -65,25 +71,27 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=github-dark" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧪 Development Philosophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivam1108-06/shivam1108-06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+> "Write tests first. Build clean solutions. Keep learning every day."
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-* GitHub: **https://github.com/shivam1108-06**
+* GitHub: **github.com/shivam1108-06**
 
 ---
 
-### ✨ Quote
+<div align="center">
 
-> "Building real-world projects and learning continuously is the key to becoming a great developer."
+### ⭐ Thanks for visiting my profile!
+
+**Building • Testing • Learning • Growing**
+
+</div>
