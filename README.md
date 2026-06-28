@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Shivam Kotak
+# 👋 Hello, I'm Shivam Kotak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=BCA+Student;Aspiring+Python+Backend+Developer;Python+%7C+Django+%7C+C%2B%2B;Building+Real-World+Projects;Practicing+Test-Driven+Development+(TDD)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCA+Student;Aspiring+Python+Backend+Developer;Python+%7C+Django+%7C+C%2B%2B;Practicing+Test-Driven+Development;Building+Real-World+Projects" alt="Typing SVG" />
 
 ### 🚀 Aspiring Python Backend Developer from India 🇮🇳
 
@@ -14,26 +14,20 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Shivam Kotak
-Education: Bachelor of Computer Applications (BCA)
-Role: Aspiring Python Backend Developer
-Learning: Python, Django, Backend Development
-Practices: Test-Driven Development (TDD)
-Goal: Become a Professional Software Engineer
-```
-
-* 🔭 Building **real-world projects**
+* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+* 🐍 Aspiring **Python Backend Developer**
+* 🌱 Currently learning **Advanced Python, Django & Software Engineering**
 * 🧪 Practicing **Test-Driven Development (TDD)**
-* 📚 Continuously improving my software engineering skills
-* 🚀 Passionate about backend development and problem solving
+* 🚀 Building **Real-World Projects**
+* 📚 Passionate about **Problem Solving & Continuous Learning**
+* 🎯 Goal: Become a professional **Backend Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,git,github,vscode&perline=5" />
 </p>
 
 ---
@@ -42,13 +36,13 @@ Goal: Become a Professional Software Engineer
 
 ### 🔗 URL Shortener
 
-* URL generation
-* Redirection system
+* URL generation and redirection
 * Backend architecture
+* Database integration
 
 ### ✅ Django To-Do Application
 
-* Authentication
+* Authentication system
 * CRUD operations
 * Task management
 
@@ -60,11 +54,34 @@ Goal: Become a Professional Software Engineer
 
 ---
 
+## 🎯 Current Focus
+
+* 🐍 Python Backend Development
+* 🌐 Django Framework
+* 🧪 Test-Driven Development (TDD)
+* 🏗️ Building Real-World Applications
+* 📈 Improving Problem Solving Skills
+
+---
+
+## 📚 Currently Learning
+
+```text
+✓ Advanced Python
+✓ Django Framework
+✓ REST APIs
+✓ Test-Driven Development
+✓ Database Design
+✓ Software Engineering Principles
+```
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,23 +89,15 @@ Goal: Become a Professional Software Engineer
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivam1108-06&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shivam1108-06/shivam1108-06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1108-06&theme=github-dark" />
 </p>
 
 ---
@@ -103,10 +112,18 @@ Goal: Become a Professional Software Engineer
 
 ---
 
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into real-world applications while continuously improving my development skills.
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivam1108-06\&color=blueviolet)
 
 ### ⭐ Thanks for visiting my profile!
+
+**Code • Test • Build • Repeat 🚀**
 
 </div>
