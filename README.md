@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hello, I'm Shivam Kotak
+# 👋 Hi, I'm Shivam Kotak
 
-### 🎓 BCA Student | 🚀 Aspiring Python Backend Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=BCA+Student;Aspiring+Python+Backend+Developer;Python+%7C+Django+%7C+C%2B%2B;Building+Real-World+Projects;Practicing+Test-Driven+Development+(TDD)" alt="Typing SVG" />
+
+### 🚀 Aspiring Python Backend Developer from India 🇮🇳
 
 *"Turning ideas into scalable applications through clean code, testing, and continuous learning."*
 
@@ -10,60 +12,59 @@
 
 ---
 
-## 💡 Who Am I?
+## 👨‍💻 About Me
 
-I'm a BCA student passionate about backend development and building practical software solutions. I enjoy solving problems, creating real-world applications, and writing maintainable code using modern development practices.
-
-* 🔭 Currently building **real-world backend projects**
-* 🐍 Specializing in **Python & Django**
-* 🧪 Practicing **Test-Driven Development (TDD)**
-* 🌱 Continuously improving my software engineering skills
-* 🎯 Goal: Become a professional Backend Software Engineer
-
----
-
-## ⚙️ Tech Stack
-
-```text
-Backend       : Python | Django
-Programming   : C++
-Frontend      : HTML | CSS | JavaScript
-Tools         : Git | GitHub | VS Code
-Practices     : Test-Driven Development (TDD)
+```yaml
+Name: Shivam Kotak
+Education: Bachelor of Computer Applications (BCA)
+Role: Aspiring Python Backend Developer
+Learning: Python, Django, Backend Development
+Practices: Test-Driven Development (TDD)
+Goal: Become a Professional Software Engineer
 ```
 
+* 🔭 Building **real-world projects**
+* 🧪 Practicing **Test-Driven Development (TDD)**
+* 📚 Continuously improving my software engineering skills
+* 🚀 Passionate about backend development and problem solving
+
 ---
 
-## 🚀 What I'm Working On
+## 🛠️ Tech Stack
 
-### 📌 Django To-Do Application
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,git,github,vscode&perline=5" />
+</p>
 
-* User authentication
+---
+
+## 🚀 Current Projects
+
+### 🔗 URL Shortener
+
+* URL generation
+* Redirection system
+* Backend architecture
+
+### ✅ Django To-Do Application
+
+* Authentication
 * CRUD operations
-* Task management system
+* Task management
 
-### 📌 URL Shortener
+### 🧪 Test-Driven Development
 
-* URL generation and redirection
-* Backend logic implementation
-* Database integration
-
-### 📌 Python Practice Projects
-
-* Problem solving
-* Data structures & algorithms
-* Software design concepts
+* Unit Testing
+* Clean Code Practices
+* Software Design Principles
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=github_dark" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,27 +72,41 @@ Practices     : Test-Driven Development (TDD)
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=github-dark" />
+<img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧪 Development Philosophy
+## 🏆 GitHub Trophies
 
-> "Write tests first. Build clean solutions. Keep learning every day."
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shivam1108-06&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📫 Connect
+## 🐍 Contribution Snake
 
-* GitHub: **github.com/shivam1108-06**
+<p align="center">
+<img src="https://raw.githubusercontent.com/shivam1108-06/shivam1108-06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+### "Write Tests. Build Solutions. Keep Learning."
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+![Profile Views](https://komarev.com/ghpvc/?username=shivam1108-06\&color=blueviolet)
 
-**Building • Testing • Learning • Growing**
+### ⭐ Thanks for visiting my profile!
 
 </div>
