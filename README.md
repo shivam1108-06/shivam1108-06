@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Kotak
 
-<!--
-**shivam1108-06/shivam1108-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 BCA Student | Aspiring Python Backend Developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam1108-06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+* 💻 Aspiring **Python Backend Developer**
+* 🌱 Currently learning **Python, Django, C++, and Web Development**
+* 🚀 Building **Real-World Projects**
+* 📚 Passionate about **Continuous Learning and Problem Solving**
+* ⚡ Goal: To become a professional **Software Developer**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Django To-Do List Application
+
+* User authentication
+* CRUD operations
+* Task filtering and management
+
+### 🔹 URL Shortener Project
+
+* Generate short URLs
+* Redirect functionality
+* Backend logic using Python
+
+### 🔹 Python Practice Projects
+
+* Problem solving
+* Data structures and algorithms
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam1108-06&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1108-06&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivam1108-06&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivam1108-06/shivam1108-06/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: **https://github.com/shivam1108-06**
+
+---
+
+### ✨ Quote
+
+> "Building real-world projects and learning continuously is the key to becoming a great developer."
