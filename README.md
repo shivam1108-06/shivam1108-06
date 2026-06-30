@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Shivam Kotak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCA+Student;Aspiring+Python+Backend+Developer;Python+%7C+Django+%7C+C%2B%2B;Practicing+Test-Driven+Development;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSC+Student;Aspiring+Python+Backend+Developer;Python+%7C+Django+%7C+C%2B%2B;Practicing+Test-Driven+Development;Building+Real-World+Projects" alt="Typing SVG" />
 
 ### 🚀 Aspiring Python Backend Developer from India 🇮🇳
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+* 🎓 Pursuing **Bachelor of Science (BSC)**
 * 🐍 Aspiring **Python Backend Developer**
 * 🌱 Currently learning **Advanced Python, Django & Software Engineering**
 * 🧪 Practicing **Test-Driven Development (TDD)**
